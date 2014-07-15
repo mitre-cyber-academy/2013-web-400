@@ -1,0 +1,8 @@
+{
+	"user": "ubuntu",
+	"pgsql-version": "9.2",
+	"passenger-version": "4.0.5",
+	"run_list": [
+		"recipe[apt]", "recipe[git]", "recipe[postgres]", "recipe[ruby-build]",  "recipe[challenge]"
+	]
+}

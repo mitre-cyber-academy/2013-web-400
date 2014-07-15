@@ -1,0 +1,3 @@
+== Rails Messaging App
+
+If you actually are going to use this for your site (which I don't suggest), you should probably update the Rails version ;)

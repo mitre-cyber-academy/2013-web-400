@@ -1,0 +1,7 @@
+---
+path:		.
+username:	"ubuntu"
+flavor_id:		"c1.medium"
+image_id:		"ami-da0d9eb3"
+tags:
+    Name:	web/rails_sql_injection
