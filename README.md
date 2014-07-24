@@ -9,3 +9,7 @@ Once they inject this information into their browser the site will then let them
 How to Stand Up locally: Install [vagrant](http://vagrantup.com/) and then run `vagrant up` from the root of this directory. After the script finished, navigate to [localhost:8080](http://localhost:8080) in your browser.
 
 flag: "MCA-A342B91C"
+
+TODO: 
+* Rework this chef recipe to use the rails-app-cookbook to handle most of the rails and ruby installation.
+* Use Berkshelf for dependency management.
